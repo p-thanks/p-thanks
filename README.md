@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | 🎨 UI/UX Designer | 📱 App Developer | 🧠 Problem Solver
 
-I build **clean, fast, scalable digital experiences** — from robust backend systems to premium user interfaces across **web and mobile platforms**.
+I build **clean, fast, scalable digital experiences** from robust backend systems to premium user interfaces across **web and mobile platforms**.
 
 I love creating products that **work beautifully, look modern, and solve real problems**. Whether it's a full web app, a mobile application, a sleek UI, or a deep technical feature, I enjoy bringing ideas to life end-to-end.
 
