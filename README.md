@@ -98,35 +98,6 @@ Crafting intuitive, beautiful interfaces:
 
 ---
 
-## 🎯 Featured Projects
-
-### 🌟 [] - Web App
-*A full-stack web application built with Next.js, Node.js, and MongoDB*
-- Real-time data synchronization
-- JWT authentication
-- Responsive design
-
-### 📱 [] - Mobile App
-*A cross-platform mobile app built with React Native*
-- Offline-first architecture
-- Push notifications
-- Smooth animations
-
-### 🔧 [] - Backend API
-*A RESTful API built with Spring Boot*
-- Scalable microservices architecture
-- OAuth 2.0 authentication
-- Comprehensive documentation
-
----
-
-## 📊 GitHub Stats
-
-![Paul's GitHub Stats]()
-![Top Languages]()
-
----
-
 ## 📬 Let's Connect
 
 I'm always open to collaborations, freelance projects, and exciting tech opportunities!
