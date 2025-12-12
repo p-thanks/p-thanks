@@ -12,7 +12,7 @@ I love creating products that **work beautifully, look modern, and solve real pr
 
 ### 🌐 Web Development
 Building modern, responsive web applications:
-- **Frontend Frameworks:** React.js, Typescript
+- **Frontend Frameworks:** React.js, Typescript, Next.js
 - **Styling:** Tailwind CSS, CSS3, Responsive Design
 - **State Management:** Redux, Context API
 - **Performance:** SEO optimization, lazy loading, code splitting
